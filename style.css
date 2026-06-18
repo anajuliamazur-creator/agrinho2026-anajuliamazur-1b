@@ -24,4 +24,55 @@
 }
 
 .cabecalho-menu-botao
+background-color:black;
+color
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.problema-paragrafo{
+    font-size:1.2rem;
+    margin-bottom:20px;
+    color:aquamarine;
+    ;
+}
+.problema.imagem{
+    flex: 1;
+    display:flex;
+    justify-content:center;
+}
+
+problema-foto{
+    width:100%;
+    max-width:550px;
+    heigth:auto;
+    border-radius:12px;
+    box-shadow:0 8px 24px color:rgb(255, 0, 200)
+    
+}
