@@ -49,9 +49,18 @@ color
 
 
 
+.problema-titulo{
+    font-size: 3rem;
+    color:blueviolet;
+    line-height:1.2;
+    margin-botton:20px;
+}
 
-
-
+.problema-paragrafo{
+    font-size: 1.2rem;
+    margin-botton: 30px;
+    color:rgb(255, 0, 200);
+}
 
 
 
